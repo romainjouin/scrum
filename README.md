@@ -1,0 +1,3 @@
+# scrum
+
+Exercice pour scrum
